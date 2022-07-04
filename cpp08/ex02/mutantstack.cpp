@@ -1,0 +1,1 @@
+//Aucun interet d'avoir un .cpp parceque la class est un template
